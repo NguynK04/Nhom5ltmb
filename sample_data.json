@@ -1,0 +1,384 @@
+{
+  "categories": [
+    {
+      "name": "Món Nướng",
+      "description": "Các món nướng thơm ngon, nướng than hoa",
+      "icon": "local_fire_department",
+      "isActive": true,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Món Nước", 
+      "description": "Các món canh, soup, lẩu",
+      "icon": "soup_kitchen",
+      "isActive": true,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Tráng Miệng",
+      "description": "Kem, trái cây và các món tráng miệng", 
+      "icon": "icecream",
+      "isActive": true,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    }
+  ],
+  "products": [
+    {
+      "name": "Thịt Bò Nướng Lá Lốt",
+      "description": "Thịt bò thượng hạng được ướp gia vị đặc biệt, cuộn lá lốt nướng than hoa thơm phức",
+      "price": 180000,
+      "image": null,
+      "categoryName": "Món Nướng",
+      "stock": 50,
+      "unit": "phần",
+      "isActive": true,
+      "isFeatured": true,
+      "discount": 10,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Sườn Nướng BBQ",
+      "description": "Sườn heo non nướng với sauce BBQ đặc trưng, thịt mềm ngọt đậm đà",
+      "price": 220000,
+      "image": null,
+      "categoryName": "Món Nướng",
+      "stock": 30,
+      "unit": "phần",
+      "isActive": true,
+      "isFeatured": true,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Gà Nướng Muối Ớt",
+      "description": "Gà ta nướng muối ớt thơm lừng, da giòn thịt ngọt, ăn kèm rau sống",
+      "price": 350000,
+      "image": null,
+      "categoryName": "Món Nướng",
+      "stock": 20,
+      "unit": "con",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Chả Cá Nướng",
+      "description": "Chả cá tự làm nướng than hoa, thơm béo đậm đà hương vị",
+      "price": 120000,
+      "image": null,
+      "categoryName": "Món Nướng",
+      "stock": 40,
+      "unit": "phần",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": 5,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Tôm Nướng Phô Mai",
+      "description": "Tôm sú tươi nướng với phô mai thơm béo, ăn kèm bánh mì nướng",
+      "price": 280000,
+      "image": null,
+      "categoryName": "Món Nướng",
+      "stock": 25,
+      "unit": "phần",
+      "isActive": true,
+      "isFeatured": true,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Cánh Gà Nướng Mật Ong",
+      "description": "Cánh gà nướng với mật ong và gia vị đặc biệt, vị ngọt đậm đà",
+      "price": 80000,
+      "image": null,
+      "categoryName": "Món Nướng",
+      "stock": 60,
+      "unit": "phần",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Bạch Tuộc Nướng",
+      "description": "Bạch tuộc tươi nướng than hoa, ăn kèm wasabi và tương ớt",
+      "price": 250000,
+      "image": null,
+      "categoryName": "Món Nướng",
+      "stock": 15,
+      "unit": "phần",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Lẩu Thái Chua Cay",
+      "description": "Lẩu thái truyền thống với nước dùng chua cay đậm đà, đầy đủ hải sản tươi ngon",
+      "price": 450000,
+      "image": null,
+      "categoryName": "Món Nước",
+      "stock": 10,
+      "unit": "nồi",
+      "isActive": true,
+      "isFeatured": true,
+      "discount": 15,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Canh Chua Cá Lóc",
+      "description": "Canh chua cá lóc truyền thống miền Tây với cà chua, dứa, đậu bắp",
+      "price": 120000,
+      "image": null,
+      "categoryName": "Món Nước",
+      "stock": 35,
+      "unit": "tô",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Soup Hến",
+      "description": "Soup hến đậm đà với nước dùng trong vắt, thịt hến tươi ngọt",
+      "price": 90000,
+      "image": null,
+      "categoryName": "Món Nước",
+      "stock": 40,
+      "unit": "tô",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Lẩu Gà Lá É",
+      "description": "Lẩu gà truyền thống với lá é thơm, nước dùng ngọt thanh",
+      "price": 380000,
+      "image": null,
+      "categoryName": "Món Nước",
+      "stock": 12,
+      "unit": "nồi",
+      "isActive": true,
+      "isFeatured": true,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Canh Bí Đỏ Tôm Khô",
+      "description": "Canh bí đỏ ngọt thanh với tôm khô thơm béo, bổ dưỡng",
+      "price": 85000,
+      "image": null,
+      "categoryName": "Món Nước",
+      "stock": 30,
+      "unit": "tô",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Soup Cua Asparagus",
+      "description": "Soup cua măng tây thơm béo, dinh dưỡng cao",
+      "price": 150000,
+      "image": null,
+      "categoryName": "Món Nước",
+      "stock": 25,
+      "unit": "tô",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": 8,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Kem Flan Caramen",
+      "description": "Kem flan caramen thơm béo, vị ngọt dịu nhẹ, làm từ trứng gà tươi",
+      "price": 35000,
+      "image": null,
+      "categoryName": "Tráng Miệng",
+      "stock": 50,
+      "unit": "ly",
+      "isActive": true,
+      "isFeatured": true,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Chè Đậu Đỏ",
+      "description": "Chè đậu đỏ truyền thống với nước cốt dừa thơm béo",
+      "price": 25000,
+      "image": null,
+      "categoryName": "Tráng Miệng",
+      "stock": 60,
+      "unit": "tô",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Trái Cây Dĩa",
+      "description": "Dĩa trái cây tươi theo mùa: xoài, dứa, nho, táo, lê...",
+      "price": 80000,
+      "image": null,
+      "categoryName": "Tráng Miệng",
+      "stock": 20,
+      "unit": "dĩa",
+      "isActive": true,
+      "isFeatured": true,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Kem Dừa Nướng",
+      "description": "Kem dừa nướng thơm béo trong trái dừa tươi, độc đáo",
+      "price": 55000,
+      "image": null,
+      "categoryName": "Tráng Miệng",
+      "stock": 30,
+      "unit": "trái",
+      "isActive": true,
+      "isFeatured": true,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Bánh Flan Nướng",
+      "description": "Bánh flan nướng với lớp caramen đậm đà, thơm béo",
+      "price": 40000,
+      "image": null,
+      "categoryName": "Tráng Miệng",
+      "stock": 40,
+      "unit": "miếng",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    },
+    {
+      "name": "Chè Sương Sa Hạt Lựu",
+      "description": "Chè sương sa hạt lựu mát lạnh, đẹp mắt và thơm ngon",
+      "price": 30000,
+      "image": null,
+      "categoryName": "Tráng Miệng",
+      "stock": 45,
+      "unit": "ly",
+      "isActive": true,
+      "isFeatured": false,
+      "discount": null,
+      "createdAt": {
+        ".sv": "timestamp"
+      },
+      "updatedAt": {
+        ".sv": "timestamp"
+      }
+    }
+  ]
+}
